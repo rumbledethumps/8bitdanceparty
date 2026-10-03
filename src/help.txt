@@ -1,0 +1,4 @@
+8-Bit Dance Party, the C64 and CoCo demos of Adrian's Digital Basement.
+Enter or keypad Enter: switch between the C64 and the CoCo.
+Space: disco balls on the C64, ADB or ADB ][ header on the CoCo.
+Gamepad: Select or Start is Enter, and A, B, X or Y is Space.
